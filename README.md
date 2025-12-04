@@ -58,4 +58,10 @@ c.랭킹시스템에 대한 완벽한 고찰
 
 ![아키텍쳐](images/arc.png)
 
+기술 스택
+- Backend:Python FastAPI
+- Database:PostgreSQL +PostGIS (추후 변경 가능)
+- AI:Scikit-learn & Pandas
+유저들 리뷰 패턴분석 
+- Frontend:Flutter & Streamlit
 2025-12-04 수정본
